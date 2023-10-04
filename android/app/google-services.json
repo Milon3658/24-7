@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538603995127",
+    "project_id": "project-3302546238435810654",
+    "storage_bucket": "project-3302546238435810654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538603995127:android:afc80c1c930fbee4b9b8f2",
+        "android_client_info": {
+          "package_name": "net.carboncodes.t247"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnPpXN_dBP5CiUmDw2oEjOSdkHFrFoICM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
